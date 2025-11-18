@@ -27,6 +27,9 @@ To perform a basic vulnerability scan on my personal computer using a free vulne
 # Files in this repo
 - `Vulnerability Scan.html` — Vulnerability scan report.
 - `Screenshots/` — screenshots of scanning
+-       Dashboard.png
+-       Scanning.png
+-       Screenshot.png
 - `README.md` — this file
 
 ## Key Learnings
